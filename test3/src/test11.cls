@@ -5,7 +5,6 @@ public class test11 {
         System.debug('test3');
         System.debug('test4');
         System.debug('test5');
-        System.debug('test6');
     return null;
     }
     
